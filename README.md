@@ -1,5 +1,5 @@
 <h1 align='center'>Selamat datang di GitHub saya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" /></h1>
-Saya seorang Junior Web Developer dari Kalimantan Selatan.
+Perkenalkan nama saya Zoelva, saya seorang Junior Web Developer dari Kalimantan Selatan.
 
 ## Technologies & Tools
 <div align='center'>
@@ -15,6 +15,11 @@ Saya seorang Junior Web Developer dari Kalimantan Selatan.
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+</div>
+
+## Social Media
+<div align='center'>
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 </div>
 
 ## GitHub Stats
