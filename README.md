@@ -19,15 +19,28 @@ Perkenalkan nama saya Zoelva, saya seorang Junior Web Developer dari Kalimantan 
 
 ## Social Media
 <div align='center'>
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/6281251206812/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoelva/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/zoel.va/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/hafizh.khairani/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:hafiizh10@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.my.id/)
+
 </div>
 
 ## GitHub Stats
+<div align='center'>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiizh10&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiizh10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zoelva GitHub Stats" />
 </a>
+</div>
 
+## Footer
+<p align='center'>
+  <a href="#"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/hafiizh10/hafiizh10.svg" /></a>
+</p>
 <!-- GitHub profile inspired by MartinHeinz  -->
