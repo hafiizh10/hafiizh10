@@ -47,7 +47,7 @@ Perkenalkan nama saya Zoelva, saya seorang Junior Web Developer dari Kalimantan 
 ## Footer
 <div align='center'>
 
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=hafiizh10.hafiizh10)
+![](https://komarev.com/ghpvc/?username=hafiizh10&label=PROFILE+VIEWS)
 
 </div>
 <!-- GitHub profile inspired by MartinHeinz  -->
