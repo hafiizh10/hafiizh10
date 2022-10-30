@@ -20,11 +20,11 @@ Perkenalkan nama saya Zoelva, saya seorang Junior Web Developer dari Kalimantan 
 ## Social Media
 <div align='center'>
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/6281251206812/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoelva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/zoel.va/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/hafizh.khairani/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:hafiizh10@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/6281251206812/)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.my.id/)
 
 </div>
