@@ -19,9 +19,7 @@ Perkenalkan nama saya Zoelva, saya seorang Junior Web Developer dari Kalimantan 
 
 ## My Products
 <ul>
-
-  **<li><a href="https://zoelva.my.id/larazoe.html">Larazoe : Aplikasi Booking Studio Foto</a></li>**
-
+ <li><a href="https://zoelva.my.id/larazoe.html" target="_blank"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
 </ul>
 
 ## Social Media
