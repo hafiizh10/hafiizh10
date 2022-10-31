@@ -44,7 +44,7 @@ Perkenalkan nama saya Zoelva, saya seorang junior web developer dari tahun 2014 
 </a>
 </div>
 
-## Footer
+## Information
 <div align='center'>
 
 ![](https://komarev.com/ghpvc/?username=hafiizh10&label=PROFILE+VIEWS)
