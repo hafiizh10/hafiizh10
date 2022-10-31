@@ -1,5 +1,5 @@
-<h1 align='center'>Selamat datang di GitHub saya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" /></h1>
-Perkenalkan nama saya Zoelva, saya seorang Junior Web Developer dari Kalimantan Selatan.
+<h1 align='center'>Selamat datang di GitHub saya <img src="https://raw.githubusercontent.com/hafiizh10/hafiizh10/main/wave.gif" width="40px" height="40px" /></h1>
+Perkenalkan nama saya Zoelva, saya seorang junior web developer dari tahun 2014 hingga sekarang sudah membuat beberapa projek aplikasi web untuk perusahaan ataupun perorangan, dan saat ini saya sedang membuka jasa pembuatan aplikasi booking studio foto berbasis web.
 
 ## Technologies & Tools
 <div align='center'>
