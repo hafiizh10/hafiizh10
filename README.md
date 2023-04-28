@@ -19,7 +19,7 @@ Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekara
 
 ## My Products
 <ul>
- <li><a href="https://zoelva.my.id/larazoe.html"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
+ <li><a href="https://larazoe.zoelva.my.id"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
 </ul>
 
 ## Social Media
