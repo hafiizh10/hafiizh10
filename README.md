@@ -1,10 +1,10 @@
 <h1 align='center'>Selamat datang di GitHub saya <img src="https://raw.githubusercontent.com/hafiizh10/hafiizh10/main/wave.gif" width="40px" height="40px" /></h1>
-Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekarang sudah membuat beberapa projek aplikasi web untuk perusahaan ataupun perorangan, saat ini saya sedang membuka jasa pembuatan aplikasi booking studio foto, booking foto wedding, dan undangan digital yang bernama Larazoe.
+Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekarang sudah membuat beberapa projek aplikasi web untuk perusahaan ataupun perorangan, saat ini saya sedang membuka jasa pembuatan aplikasi booking studio foto, booking foto wedding, booking self photo, dan undangan digital yang bernama Larazoe.
 
 ## Technologies & Tools
 <div align='center'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -14,7 +14,8 @@ Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekara
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="Postman" height="40"/>&nbsp;
 </div>
 
 ## My Products
