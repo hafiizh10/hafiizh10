@@ -44,11 +44,4 @@ Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekara
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiizh10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zoelva GitHub Stats" />
 </a>
 </div>
-
-## Information
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=hafiizh10&label=PROFILE+VIEWS)
-
-</div>
 <!-- GitHub profile inspired by MartinHeinz  -->
