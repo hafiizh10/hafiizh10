@@ -38,7 +38,7 @@ Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekara
 ## GitHub Stats
 <div align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiizh10&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiizh10&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiizh10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zoelva GitHub Stats" />
