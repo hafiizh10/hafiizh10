@@ -1,5 +1,5 @@
 <h1 align='center'>Selamat datang di GitHub saya <img src="https://raw.githubusercontent.com/hafiizh10/hafiizh10/main/wave.gif" width="40px" height="40px" /></h1>
-Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekarang sudah membuat beberapa projek aplikasi web untuk perusahaan ataupun perorangan, saat ini saya sedang membuka jasa pembuatan aplikasi booking studio foto, booking foto wedding, booking self photo, dan undangan digital yang bernama Larazoe.
+Saya alumni SMK Telkom Banjarbaru tahun 2018 dan baru saja menyelesaikan pendidikan S1 Teknik Informatika di STMIK Banjarbaru. Memiliki keahlian dalam bidang software engineer dan telah mengembangkan beberapa proyek aplikasi untuk perusahaan ataupun klien individu sejak tahun 2014 hingga sekarang. Saat ini saya sedang membuka jasa pembuatan aplikasi booking studio foto, booking foto wedding, booking self photo, dan undangan digital yang bernama Larazoe.
 
 ## Technologies & Tools
 <div align='center'>
@@ -38,7 +38,7 @@ Perkenalkan nama saya Zoelva seorang web developer dari tahun 2014 hingga sekara
 ## GitHub Stats
 <div align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiizh10&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiizh10&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiizh10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zoelva GitHub Stats" />
