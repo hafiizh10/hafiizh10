@@ -20,7 +20,7 @@ Saya alumni SMK Telkom Banjarbaru tahun 2018 dan baru saja menyelesaikan pendidi
 
 ## My Products
 <ul>
- <li><a href="https://larazoe.zoelva.my.id"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
+ <li><a href="https://zoelva.netlify.app/publication/larazoe"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
 </ul>
 
 ## Social Media
@@ -31,7 +31,7 @@ Saya alumni SMK Telkom Banjarbaru tahun 2018 dan baru saja menyelesaikan pendidi
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/hafizh.khairani/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:hafiizh10@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/6281251206812/)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.my.id/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.netlify.app/)
 
 </div>
 
