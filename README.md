@@ -1,26 +1,9 @@
 <h1 align='center'>Selamat datang di GitHub saya <img src="https://raw.githubusercontent.com/hafiizh10/hafiizh10/main/wave.gif" width="40px" height="40px" /></h1>
-Saya alumni SMK Telkom Banjarbaru tahun 2018 dan baru saja menyelesaikan pendidikan S1 Teknik Informatika di STMIK Banjarbaru. Memiliki keahlian dalam bidang software engineer dan telah mengembangkan beberapa proyek aplikasi untuk perusahaan ataupun klien individu sejak tahun 2014 hingga sekarang. Saat ini saya sedang membuka jasa pembuatan aplikasi booking studio foto, booking foto wedding, booking self photo, dan undangan digital yang bernama Larazoe.
-
-## Technologies & Tools
-<div align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="Postman" height="40"/>&nbsp;
-</div>
+Saya memiliki pengalaman lebih dari 6 tahun dalam mengembangkan solusi teknologi yang efisien. Saya memiliki keahlian dalam pengembangan aplikasi dengan fokus pada Full Stack Development menggunakan teknologi modern. Selain keterampilan teknis, saya memiliki kemampuan dalam berkolaborasi dengan tim, dan menyelesaikan masalah secara kreatif.
 
 ## My Products
 <ul>
- <li><a href="https://zoelva.netlify.app/publication/larazoe"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
+ <li><a href="https://zoelva.my.id/portfolio/aplikasi-booking-studio-foto-booking-self-photo-booking-foto-wedding-dan-undangan-digital-45594"><b>Larazoe : Aplikasi Booking Studio Foto</b></a></li>
 </ul>
 
 ## Social Media
@@ -28,9 +11,7 @@ Saya alumni SMK Telkom Banjarbaru tahun 2018 dan baru saja menyelesaikan pendidi
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoelva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/zoel.va/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/hafizh.khairani/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:hafiizh10@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/6281251206812/)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.netlify.app/)
 
 </div>
