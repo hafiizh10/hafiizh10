@@ -9,10 +9,10 @@ Saya memiliki pengalaman lebih dari 6 tahun dalam mengembangkan solusi teknologi
 ## Social Media
 <div align='center'>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zoelva/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zoelva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/zoel.va/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:hafiizh10@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.netlify.app/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&labelColor=000000&logo=About.me&logoColor=white)](https://zoelva.my.id/)
 
 </div>
 
